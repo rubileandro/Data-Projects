@@ -1,7 +1,12 @@
 Here is a workbook in `.xlsx` format containing charts that I put together of the crime over several categories from the last 12 years. I feel that these categories give a overall sense of the crime rates when comparing South Africa and Mauritius. 
 
 Each crime category that I have chosen, namely, **Rape**, **Murder**, **Assault (GBH)**, **Common Assault**, **Drunk Driving** and **Burglary** has a chart showing the rate of that crime category normalized for the population size of each year of the reported crime count. 
+
 To normalize, I took the total count for the year, divided it by the population for that same year, then multiplied the result by 100 000 to get the rate per 100 000. This is a common convention for countries to compare crime statistics while taking into account different population sizes.
+
+This is an example of the charts contained within.
+
+![image](https://github.com/rubileandro/Data-Projects/assets/93342175/4afc790b-ac29-43c0-b609-75b9c222d659)
 
 Something that isn't really captured by this that could be an additional factor is population density, i.e. a large township in South Africa will have people more densely packed than a different area even if the other area has a lower population size, it may be that the one with higher population density has the most crime. This is just something to keep in mind when comparing crime inter and intra nation.
 
